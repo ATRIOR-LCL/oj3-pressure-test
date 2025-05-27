@@ -1,4 +1,4 @@
-# OJ3 压力测试脚本
+# OJ3 云服务器压力测试脚本 🎉
 
 github：<https://github.com/ATRIOR-LCL/oj3-pressure-test>
 
