@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@sdutacm/onlinejudge3-api-sdk": "^1.0.0",
+    "axios": "^1.9.0",
+    "fs": "0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}

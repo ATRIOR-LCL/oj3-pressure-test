@@ -1,0 +1,4 @@
+- category: 比赛中的题目类型
+- code: 经过base64编码后的提交代码
+- state: 代码提交后的反馈（AC、WA、TLE等）
+- level: 炸裂程度（0-2）
